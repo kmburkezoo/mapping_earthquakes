@@ -1,5 +1,6 @@
 # Config file
-simple_map/static/js/config.js 
+simple_map/static/js/config.js
+mapping_single_points/static/js/config.js 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
